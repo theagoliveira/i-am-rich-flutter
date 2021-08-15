@@ -1,16 +1,26 @@
-# i_am_rich
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-A new Flutter project.
+# I Am Rich :gem:
 
-## Getting Started
+## Our Goal
 
-This project is a starting point for a Flutter application.
+Learn how to create Flutter apps from scratch.
 
-A few resources to get you started if this is your first Flutter project:
+## What you will create
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Rich%20Screenshot.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What you will learn
+
+- Creating a New Flutter Project from Scratch
+- Scaffolding a Flutter App
+- Working with Assets in Flutter & the Pubspec file
+- How to Add App Icons to the iOS and Android Apps
+
+>This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+## Deployment
+
+Web build of this project deployed on [GitHub Pages](https://theagoliveira.github.io/i-am-rich-flutter/)
